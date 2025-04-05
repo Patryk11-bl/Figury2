@@ -20,7 +20,7 @@ class Trojkat:
     def wysObwod(self):
         print(f'Obwod trojkata to {self.Obwod_Troj}')
 
-trojkat1 = Trojkat(6,6,6,6)
+trojkat1 = Trojkat(9,9,9,9)
 
 trojkat1.wysObwod()
 trojkat1.wysPole()
