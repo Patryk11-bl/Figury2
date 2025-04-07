@@ -42,3 +42,4 @@ kwadrat1 = Kwadrat(7,7)
 
 kwadrat1.wysObw()
 kwadrat1.wysPol()
+
