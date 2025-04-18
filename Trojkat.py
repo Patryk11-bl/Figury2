@@ -24,3 +24,5 @@ trojkat1 = Trojkat(9,9,9,9)
 
 trojkat1.wysObwod()
 trojkat1.wysPole()
+class Prostopadloscian():
+    
